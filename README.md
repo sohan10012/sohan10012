@@ -5,8 +5,8 @@
 
 <br><br>
 
-- 🌱 I’m currently learning **Java Script and Backend**
-- 💬 Ask me about **HTML-CSS**
+- 🌱 I’m currently learning **React and Backend**
+- 💬 Ask me about **HTML-CSS-JS**
 - 📫 How to reach me **sohan10012006@gmail.com**
 - 👨‍💻 All of my projects are available at **https://github.com/sohan10012**
 - ⚡ Fun fact **I think I am funny**
