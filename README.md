@@ -48,8 +48,6 @@
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=sohan10012&show_icons=true&locale=en&theme=midnight-purple" alt="sohan10012" />
 </div> <br><br>
 
-<div align="center">
-  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sohan10012&theme=shades-of-purple" alt="sohan10012" />
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=sohan10012&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
