@@ -42,8 +42,8 @@
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="70" /></a>  &nbsp;&nbsp;
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="70" /></a> &nbsp;&nbsp; 
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="70" /></a> &nbsp;&nbsp; 
- <a href="https://vitejs.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vitejs-original.svg" alt="Vite" height="70" /></a>  &nbsp;&nbsp;
-<a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://sl.bing.net/cJPE4ROZhZc" alt="Tableau" height="70" /></a>  &nbsp;&nbsp;
+ <a href="https://vitejs.dev/" target="_blank"><img style="margin: 10px" src="https://seeklogo.com/images/V/vite-logo-BFD4283991-seeklogo.com.png" alt="Vite" height="70" /></a>  &nbsp;&nbsp;
+<a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="70" /></a>  &nbsp;&nbsp; 
 </div>  
  
 
