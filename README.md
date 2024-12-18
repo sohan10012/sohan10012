@@ -53,8 +53,9 @@
 <div align="center">
   <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohan10012&layout=compact&theme=highcontrast" alt=sohan10012 />
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=sohan10012&show_icons=true&locale=en&theme=midnight-purple" alt="sohan10012" />
+ 
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=sohan10012&theme=dark&hide_border=true)
 </div> <br><br>
 
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=sohan10012&theme=dark&hide_border=true)
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
