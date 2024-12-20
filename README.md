@@ -5,7 +5,7 @@
 
 <br><br>
 
-- 🌱 I’m currently learning **React and Backend**
+- 🌱 I’m currently learning **AI-ML**
 - 💬 Ask me about **HTML-CSS-JS**
 - 📫 How to reach me **sohan10012006@gmail.com**
 - 👨‍💻 All of my projects are available at **https://github.com/sohan10012**
