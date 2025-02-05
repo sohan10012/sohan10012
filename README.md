@@ -49,10 +49,9 @@
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_28dp.png" alt="Firebase" height="70" /></a>  &nbsp;&nbsp;
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js" height="30" /></a>  &nbsp;&nbsp;
 <a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://assets.getpostman.com/common-share/postman-logo-stacked.svg" alt="Postman" height="70" /></a>  &nbsp;&nbsp;
-<a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="70" /></a>  &nbsp;&nbsp; 
+<a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="70" /></a>  &nbsp;&nbsp;
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" height="70"</a>&nbsp;&nbsp;
 </div>  
- 
-
 <br>
 
 <h3 align="left">Stars</h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
