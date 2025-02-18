@@ -38,9 +38,7 @@
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="70" /></a>&nbsp;&nbsp;
 <br/> 
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="70" /></a>  &nbsp;&nbsp;
-<a href="https://expressjs.com/" target="_blank">
-  <img style="margin: 10px; background-color: white; padding: 5px; border-radius: 5px;" src="https://seekvectors.com/post/expressjs-logo" alt="Express.js" height="70" />
-</a> &nbsp;&nbsp;
+<a href="https://expressjs.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" height="50" /></a> &nbsp;&nbsp;
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="70" /></a>  &nbsp;&nbsp;
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="70" /></a>  &nbsp;&nbsp;
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="70" /></a> &nbsp;&nbsp; 
