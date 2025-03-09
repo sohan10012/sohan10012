@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **AI-ML**
 - 💬 Ask me about **Web-dev**
 - 📫 How to reach me **sohan10012006@gmail.com**
-- 👨‍💻 All of my projects are available at **https://github.com/sohan10012**
+- 👨‍💻 Visit my Portfolio : https://sohan10012-portfolio.vercel.app/
 - ⚡ Fun fact **I think I am funny**
 
 <br><br>
