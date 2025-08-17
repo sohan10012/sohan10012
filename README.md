@@ -36,14 +36,13 @@
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  &nbsp;&nbsp;
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="70" /></a>  &nbsp;&nbsp;
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="70" /></a>&nbsp;&nbsp;
-<br/> 
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="70" /></a>  &nbsp;&nbsp;
 <a href="https://expressjs.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" height="50" /></a> &nbsp;&nbsp;
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="70" /></a>  &nbsp;&nbsp;
+<br>
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="70" /></a>  &nbsp;&nbsp;
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="70" /></a> &nbsp;&nbsp; 
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="70" /></a> &nbsp;&nbsp; 
-<br>
 <a href="https://vitejs.dev/" target="_blank"><img style="margin: 10px" src="https://vitejs.dev/logo.svg" alt="Vite" height="70" /></a>  &nbsp;&nbsp;
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px"src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" height="70" /></a>  &nbsp;&nbsp;
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_28dp.png" alt="Firebase" height="70" /></a>  &nbsp;&nbsp;
@@ -52,7 +51,21 @@
 <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="70" /></a>  &nbsp;&nbsp;
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" height="70"</a>&nbsp;&nbsp;
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Next.js" height="70" /></a>  &nbsp;&nbsp;
-</div>  
+</div>   
+<br>
+<div align="center">  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="70" /></a> &nbsp;&nbsp;
+<a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" height="70"/></a> &nbsp;&nbsp;
+<a href="https://numpy.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" height="70"/></a> &nbsp;&nbsp;
+<a href="https://scikit-learn.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" height="70"/></a> &nbsp;&nbsp;
+<a href="https://seaborn.pydata.org/" target="_blank"><img style="margin: 10px" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" height="70"/></a> &nbsp;&nbsp;
+<br>
+<a href="https://matplotlib.org/" target="_blank"><img style="margin: 10px" src="https://matplotlib.org/3.3.3/_images/sphx_glr_logos2_003.png" height="70"/></a> &nbsp;&nbsp;
+<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch" height="70"/></a> &nbsp;&nbsp;
+<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow" height="70"/></a> &nbsp;&nbsp;
+<a href="https://jupyter.org/" target="_blank"><img style="margin: 10px" src="https://jupyter.org/assets/logos/rectanglelogo-greytext-orangebody-greymoons.svg" alt="Jupyter" height="70"/></a> &nbsp;&nbsp;
+<a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="70" /></a>  
+</div>
 <br>
 
 <h3 align="left">Stars</h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
