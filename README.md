@@ -58,6 +58,7 @@
 <a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" height="70"/></a> &nbsp;&nbsp;
 <a href="https://numpy.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" height="70"/></a> &nbsp;&nbsp;
 <a href="https://scikit-learn.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" height="70"/></a> &nbsp;&nbsp; 
+<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
 <a href="https://opencv.org/" target="_blank">
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV" height="70"/>
 </a> &nbsp;&nbsp;
@@ -65,7 +66,6 @@
 <a href="https://matplotlib.org/" target="_blank"><img style="margin: 10px" src="https://matplotlib.org/3.3.3/_images/sphx_glr_logos2_003.png" height="70"/></a> &nbsp;&nbsp;
 <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch" height="70"/></a> &nbsp;&nbsp;
 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow" height="70"/></a> &nbsp;&nbsp;
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
 <a href="https://jupyter.org/" target="_blank"><img style="margin: 10px" src="https://jupyter.org/assets/logos/rectanglelogo-greytext-orangebody-greymoons.svg" alt="Jupyter" height="70"/></a> &nbsp;&nbsp;
 <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="70" /></a>  
 </div>
