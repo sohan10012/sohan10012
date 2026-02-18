@@ -5,10 +5,10 @@
 
 <br><br>
 
-- 🌱 I’m currently learning **AI-ML**
-- 💬 Ask me about **Web-dev**
+- 🌱 I’m currently learning **GEN-AI**
+- 💬 Ask me about **Web-ML-DL-GenAI**
 - 📫 How to reach me **sohan10012006@gmail.com**
-- 👨‍💻 Visit my Portfolio : https://sohan10012-portfolio.vercel.app/
+- 👨‍💻 Visit my Portfolio : https://sohank.vercel.app/
 - ⚡ Fun fact **I think I am funny**
 
 <br><br>
