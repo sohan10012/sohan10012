@@ -123,7 +123,7 @@ sohan = {
 <img src="https://github.com/sohan10012.png?size=200" width="72" style="border-radius:50%"/>
 </td>
 <td align="left">
-<b>"It's all in the mind."</b>
+<b>"It's all in the mind....."</b>
 </td>
 </tr>
 </table>
