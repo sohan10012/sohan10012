@@ -75,6 +75,10 @@ sohan = {
 
 <div align="center">
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
 <img width="72%" src="https://streak-stats.demolab.com?user=sohan10012&theme=transparent&hide_border=true&background=0D0D0D&ring=9D7FEA&fire=9D7FEA&currStreakLabel=c4b5fd&sideLabels=8b7bb5&dates=555577&stroke=1a1a2e"/>
 
 </div>
