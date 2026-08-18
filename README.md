@@ -84,7 +84,18 @@ sohan = {
 
 ---
 
-## 🤝 Let's Connect
+<div align="center">
+
+<table>
+<tr>
+<td width="90" align="center">
+<img src="https://github.com/sohan10012.png?size=200" width="72" style="border-radius:50%"/>
+</td>
+<td align="left">
+<b>"It's all in the mind....."</b>
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -112,25 +123,9 @@ sohan = {
 
 </div>
 
-<br/><br/>
-
----
-
-<div align="center">
-
-<table>
-<tr>
-<td width="90" align="center">
-<img src="https://github.com/sohan10012.png?size=200" width="72" style="border-radius:50%"/>
-</td>
-<td align="left">
-<b>"It's all in the mind....."</b>
-</td>
-</tr>
-</table>
-
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:1a0a3d,70:2d1060,100:0d0d0d&height=100&section=footer" width="100%"/>
+
 
 </div>
