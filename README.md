@@ -69,15 +69,17 @@ sohan = {
 
 ---
 
-## 📊 GitHub Stats
-
-<br/>
+# 📊 GitHub Stats:
 
 <div align="center">
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</div>
+![](https://github-readme-stats.shion.dev/api?username=sohan10012&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=sohan10012&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=sohan10012&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=sohan10012&icon=0&color=0)](https://visitcount.itsvg.in)
+
 </div>
 
 <br/>
