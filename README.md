@@ -123,6 +123,11 @@ sohan = {
 
 <br/>
 
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sohan10012&label=PROFILE%20VIEWS&color=6366f1&style=for-the-badge" alt="Profile Views" />
+</p>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:1a0a3d,70:2d1060,100:0d0d0d&height=100&section=footer" width="100%"/>
 
 
