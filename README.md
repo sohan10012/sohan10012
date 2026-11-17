@@ -16,7 +16,7 @@ sohan = {
     "education" : "B.E. Information Science — DSCE (2027)",
     "focus"     : ["ML / Deep Learning", "Computer Vision",
                    "Generative AI", "Edge AI / IoT"],
-    "currently" : "Interning @ YogiFi ",
+    "currently" : "Interning @ Studio Ilios ",
     "learning"  : "LangGraph · Agentic Systems · MCP",
     "ask_me"    : "ML · GenAI · CV · Python · FastAPI",
     "contact"   : "sohank10012@gmail.com",
